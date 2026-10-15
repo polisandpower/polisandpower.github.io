@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Polis &amp; Power</title>
+<link>https://polisandpower.github.io/</link>
+<atom:link href="https://polisandpower.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Πολιτική επιστήμη και διεθνής πολιτική οικονομία, τεκμηριωμένα, όχι κομματικά.</description>
+<language>el</language>
+<image><url>https://polisandpower.github.io/assets/logo.png</url><title>Polis &amp; Power</title><link>https://polisandpower.github.io/</link></image>
+<item>
+<title>Η Δημοκρατία Γεννήθηκε για να Πεθαίνει;</title>
+<link>https://polisandpower.github.io/articles/dimokratia-gennithike-gia-na-pethainei.html</link>
+<guid isPermaLink="true">https://polisandpower.github.io/articles/dimokratia-gennithike-gia-na-pethainei.html</guid>
+<pubDate>Tue, 26 May 2026 00:00:00 +0300</pubDate>
+<description>Μια ιστορική και πολιτικοεπιστημονική προσέγγιση στη γένεση, την εξέλιξη και τα όρια της δημοκρατίας από την αρχαιότητα έως τον 21ο αιώνα.</description>
+</item>
+</channel>
+</rss>

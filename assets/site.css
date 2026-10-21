@@ -125,7 +125,7 @@ textarea{min-height:140px;resize:vertical}
 .article section{padding:0;margin:3rem 0 0}
 .article h2{font-size:1.65rem;margin:0 0 1rem;scroll-margin-top:90px}
 .article h3{font-size:1.2rem;letter-spacing:-.01em;margin:2rem 0 .7rem}
-.article p{margin:0 0 1.1rem;font-size:1.06rem;line-height:1.78;color:#E4DFD4}
+.article p{margin:0 0 .95rem;font-size:1.06rem;line-height:1.62;color:#E4DFD4}
 .article blockquote{margin:2rem 0;padding:1.1rem 1.4rem;border-left:3px solid var(--violet);background:rgba(124,99,255,.06);border-radius:0 12px 12px 0;font-size:1.08rem;font-style:italic;color:var(--text)}
 .article blockquote cite{display:block;margin-top:.6rem;font-style:normal;font-size:.9rem;color:var(--muted)}
 .refs p{font-size:.95rem;color:var(--muted);padding-left:1.6rem;text-indent:-1.6rem;margin-bottom:.7rem}
@@ -163,4 +163,6 @@ figure.article-hero{margin:0 auto 0.6rem}
 .corrections h2{font-size:1rem;letter-spacing:.12em;text-transform:uppercase;color:var(--blue);margin:0 0 .6rem}
 .article .corrections p{font-size:.95rem;color:var(--muted);margin:0}
 .article ol:not(.toc ol),.article ul{padding-left:1.3rem}
-.article li{margin:0 0 .9rem;line-height:1.75;color:#E4DFD4;font-size:1.06rem}
+.article li{margin:0 0 .8rem;line-height:1.62;color:#E4DFD4;font-size:1.06rem}
+@media (min-width:700px){.article p,.article li{text-align:justify;hyphens:auto;-webkit-hyphens:auto}.article .fig-src,.article .credit,.refs p{text-align:left}}
+@media print{.topbar,.comments,.footer,.author-box{display:none}.article .fig,figure.article-hero{break-inside:avoid}.article .fig{background:#0B0C18;-webkit-print-color-adjust:exact;print-color-adjust:exact}}
